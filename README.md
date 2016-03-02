@@ -1,5 +1,6 @@
 # Maximizing script (mxmzngscrpt)
-Stretches to the bounds of the screen currently active app on MacOS X. 
+Stretches to the bounds of the main monitor currently active app on MacOS X. 
+Works by launching from Spotlight Search. 
 So far works only for single monitor.
 
 ## How to use
@@ -8,7 +9,7 @@ When I need my current app to be stretched for the whole screen
 (and I need to see progress bar at the top too) - 
 I simply open Spotlight (`options+space`) and than start typing 
 `mxm..` than hit `Return`. WHOOP! Now app borders are bounded to 
-screen borders. Fantastic! No need to find a mouse, than a cursor, 
+screen borders. Fantastic! No need to grab a mouse, than find a cursor, 
 than stretch.. 
 
 ## Install
